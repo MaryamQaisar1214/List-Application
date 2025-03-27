@@ -97,7 +97,7 @@ class ToDoListApp
             else
             {
                 // Handle invalid input
-                Console.WriteLine("Invalid option. Please try again.");
+                Console.WriteLine("Invalid option. Please try again");
             }
         }
     }
